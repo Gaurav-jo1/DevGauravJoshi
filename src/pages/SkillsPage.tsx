@@ -1,9 +1,9 @@
 import React from 'react'
 
-const SkillsPage = () => {
+const SkillsPage:React.FC  = () => {
   return (
-    <div>SkillsPage</div>
+    <div>:React.FC </div>
   )
 }
 
-export default SkillsPage
+export default SkillsPage;

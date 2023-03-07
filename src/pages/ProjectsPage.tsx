@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ProjectsPage = () => {
+const ProjectsPage:React.FC  = () => {
   return (
-    <div>ProjectsPage</div>
+    <div>:React.FC </div>
   )
 }
 
-export default ProjectsPage
+export default ProjectsPage;
